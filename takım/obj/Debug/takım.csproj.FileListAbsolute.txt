@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\takım\takım\bin\Debug\takım.exe.config
+C:\Users\User\source\repos\takım\takım\bin\Debug\takım.exe
+C:\Users\User\source\repos\takım\takım\bin\Debug\takım.pdb
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.Form1.resources
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.Properties.Resources.resources
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.csproj.GenerateResource.cache
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.exe
+C:\Users\User\source\repos\takım\takım\obj\Debug\takım.pdb
